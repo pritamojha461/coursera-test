@@ -1,0 +1,39 @@
+<!doctype html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title> My First Website...</title>
+</head>
+<body style="background-color:white;">
+	<h1 style="color:red;"> Computer Wikipidea. </h1>
+	 <p> A <strong style="color:black;"> computer </strong> is a <strong style="color:blue;"> machine </strong> that can be programmed to carry out sequences of <strong style="color:blue;"> arithematic </strong> or <strong style="color:blue;"> logical operation </strong> automatically. Modern digital <strong style="color:blue;"> electronic </strong> computers can perform generic set of operation knowns as <strong style="color:blue;"> programs.</strong> These program enable computer to perform a wide range of tasks.A <strong style="color:blue;"> computer system </strong> is a nominally complete computer that include the <strong style="color:blue;">hadwere,operating system</strong> , and <strong style="color:blue;"> pheripheral </strong> equipment needed and used for full operation. This term may also refer  to a group of computers that are linked and function togther such as a <strong style="color:blue;">computer network </strong> or <strong style="color:blue;"> computer cluster.</strong> </p>
+<p> A broad range of <strong style="color:blue;"> industrial </strong> and <strong style="color:blue;"> consumer products </strong> use computers as <strong style="color:blue;">control system.</strong> Simple special purpose devices like <strong style="color:blue;"> microwave oven </strong> and <strong style="color:blue;"> remote control. </strong> are included, as are factory devices like <strong style="color:blue;"> industrial robot </strong> and  <strong style="color:blue;"> computer-aided design </strong> ,as well as general devices like <strong style="color:blue;"> personal computers </strong> and <strong style="color:blue;"> mobike devices </strong> like  <strong style="color:blue;"> smartphones </strong>. Computers power the <strong style="color:blue;"> internet,</strong> which links billions of other computers and users.</p>
+<p> Early computers were meant to be used only for calculations. Simple manual instrument like the <strong style="color:blue;"> abacus </strong> have aided people in doing calculations since ancient times. Early in the <strong style="color:blue;"> industrial revolution</strong>, some machenical device were built to automate long, tedious task,such as a guiding patterns for <strong style="color:blue;">looms. </strong> The first <strong style="color:blue;"> digital </strong> electronic calculating machine were developed during <strong style="color:blue;"> world war <strong type="I"> II </strong></strong>. The first <strong style="color:blue;">semiconductor transistor </strong> in late 1940 were folowed by the <strong style="color:blue;"> silicon </strong> based <strong style="color:blue;"> MOSFET </strong> and <strong style="color:blue;"> monolithic integreated circuit </strong> chip technologies in the late 1950s,leading to  <strong style="color:blue;"> microprocessor </strong> and the <strong style="color:blue;"> microcomputer revolution </strong> in the 1970s. The speed, power and versality of computers have been increasing dramatically ever since then,with <strong style="color:blue;">transistor counts </strong> increasing at a rapid pace,leading to the <strong style="color:blue;"> Digital Revolution </strong> during the late 20th to early 21st centuries.</p>
+<p> Conventionally, a modern computer consists of at least one <strong style="color:green;"> processing element </strong> typically a <strong style="color:green;">  centeral processing unit </strong> in the form of a microprocessor,along with some type of computer <strong style="color:green;"> computer memory </strong> typically <strong style="color:green;"> semiconductor memory </strong> chips. The processing element carries out arithmetic and logical operation and a sequencing and control unit can change the order of a operation in response to stored <strong style="color:green;"> information.</strong> peripheral devices include input devices ,output devices  that perform the function. Peripheral devicesal  allow information to be retrived from an external source and they enable the risult of opertaion to be saved and retrived.</p>
+<h1 style="color:red;"> Types of Computer... </h1>
+<p> There are two bases on which we can define the types of computer. we will discuss the types of computer on the basis of size and data handling capabilites. we will discuss each type of computer in detail. Let's see firdt what are the types of computers.
+	<Ul>
+		<li> Super Computer </li>
+		<li> Mainframe Computer </li>
+		<li> Mini Computer </li>
+		<li> Workstation Computer </li>
+		<li> Personal Computer (pc)</li>
+		<li> Server Computer</li>
+		<li> Analog Computer </li>
+		<li> Digital Computer </li>
+		<li> Hybrid Computer </li>
+		<li> Tablet and Smart Phone </li>
+	</Ul>
+	<P> Now, we are going to discuss each of them in detail. </P>
+	<h3 style="color:solid black;"> Supercomputer </h3>
+<img src="C:\Users\prita\OneDrive\Pictures\super computer.jpg" alt="Supercomputer.com" width="300" height= "300">
+<p> when we talk about speed,then the first name thet comes to mind when thinking of comouter is supercomputers. they are the biggest and fastest computers . super computer are designed such that they csn process a huge amount of data,like processing trillions of instructions or data judt in a second. This is because of the thousands of interconnected processors in supercomputers. it is basically used in scientific and engineering application such as whether forecasting, scientific simulation and nulear energy research. it was first developed by <i style="color:green;"> ROGER CRAY </i> in 1976.</p> 
+<address style="color:blue;">
+	<strong>written by pritam ojha.</strong>
+</address>
+<img src="C:\Users\prita\OneDrive\Pictures\OJHA.png" alt="pritam ojha" width="150" height="150">
+
+
+</body>
+</html>
+
